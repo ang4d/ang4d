@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abhishek Sharma<br>A passionate Software Developer from India.
+Hi 👋, I'm Abhishek <br>A passionate Software Developer .
 
 
 ## 🌐 Socials:
