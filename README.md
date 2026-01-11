@@ -10,7 +10,7 @@ Building scalable software, intelligent systems, and data-driven applications.
 [Email](mailto:abhisheksharmam416@gmail.com)
 
 </div>
-## About Me
+
 - Computer Science graduate with specialization in Data Science
 - Strong focus on **machine learning systems, backend engineering, and applied AI**
 - Experienced in translating research ideas into deployable software
