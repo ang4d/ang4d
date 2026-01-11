@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Abhishek <br>A passionate Software Developer .
+
+Hi , I'm Abhishek .
 
 
 ## 🌐 Socials:
